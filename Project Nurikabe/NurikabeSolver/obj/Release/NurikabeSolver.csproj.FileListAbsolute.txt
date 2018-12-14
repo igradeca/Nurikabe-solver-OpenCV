@@ -1,0 +1,5 @@
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\bin\Release\NurikabeSolver.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\bin\Release\NurikabeSolver.pdb
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\obj\Release\NurikabeSolver.csprojResolveAssemblyReference.cache
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\obj\Release\NurikabeSolver.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\obj\Release\NurikabeSolver.pdb

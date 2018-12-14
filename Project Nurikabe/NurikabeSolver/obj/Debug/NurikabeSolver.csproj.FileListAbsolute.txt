@@ -1,0 +1,4 @@
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\bin\Debug\NurikabeSolver.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\bin\Debug\NurikabeSolver.pdb
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\obj\Debug\NurikabeSolver.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\NurikabeSolver\obj\Debug\NurikabeSolver.pdb

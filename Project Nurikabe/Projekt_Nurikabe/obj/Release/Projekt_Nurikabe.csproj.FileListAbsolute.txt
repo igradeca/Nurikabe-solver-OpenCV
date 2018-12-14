@@ -1,0 +1,21 @@
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Projekt_Nurikabe.exe.config
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Projekt_Nurikabe.exe
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Projekt_Nurikabe.pdb
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Emgu.CV.UI.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Emgu.CV.World.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\ZedGraph.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Emgu.CV.UI.xml
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\Emgu.CV.World.xml
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\ZedGraph.xml
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.Form1.resources
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.Properties.Resources.resources
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.csproj.GenerateResource.Cache
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.exe
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.pdb
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.csprojResolveAssemblyReference.cache
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\tessnet2_64.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\NurikabeSolver.dll
+E:\Workspaces\FERI\semestar III\Racunalniski vid\Projekt_Nurikabe\Projekt_Nurikabe\bin\Release\NurikabeSolver.pdb
+E:\Workspaces\CV github projekti\Nurikabe solver computer vision\Nurikabe-solver-OpenCV\Project Nurikabe\Projekt_Nurikabe\bin\Release\Projekt_Nurikabe.exe.config
+E:\Workspaces\CV github projekti\Nurikabe solver computer vision\Nurikabe-solver-OpenCV\Project Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.exe
+E:\Workspaces\CV github projekti\Nurikabe solver computer vision\Nurikabe-solver-OpenCV\Project Nurikabe\Projekt_Nurikabe\obj\Release\Projekt_Nurikabe.pdb
